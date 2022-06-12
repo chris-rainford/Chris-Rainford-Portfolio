@@ -18,3 +18,5 @@
 * Hypothesis Testing
 * Modelling (mulitple linear regression)
 * Predictions
+![](images/Ice Cream Sales by Season.png)
+ 
