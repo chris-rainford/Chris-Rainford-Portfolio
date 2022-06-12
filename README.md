@@ -18,5 +18,8 @@
 * Hypothesis Testing
 * Modelling (mulitple linear regression)
 * Predictions
-![](images/Ice_Cream_Sales_by_Season.png) ![](images/Ice_Cream_Price_by_Temperature.png) ![](images/Correlations_Country_B.png)
+
+![](images/Ice_Cream_Sales_by_Season.png) 
+![](images/Ice_Cream_Price_by_Temperature.png) 
+![](images/Correlations_Country_B.png)
  
