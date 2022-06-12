@@ -1,5 +1,5 @@
 # Chris Rainford Portfolio
-A collection of my work as a Data Science student 
+A collection of my work as a MSc Data Science for Business student 
 
 # [Project 1: A Python Wordsearch Generator and Solver](https://github.com/chris-rainford/Wordsearch-Generator-and-Solver/blob/main/Wordsearch%20generator%20and%20solver%20(1).ipynb) 
 * Created a wordsearch generator, allowing users to enter a selection of words which will be included in a generator wordsearch
@@ -9,8 +9,7 @@ A collection of my work as a Data Science student
 
 # [Project 2: A Consultancy-style task using Python packages to access JSON and CSV files](https://github.com/chris-rainford/Consultancy-Style-Python-Project/blob/main/A%20Consultancy%20style%20task%20using%20JSON%20and%20CSV%20files.ipynb) 
 * Reading JSON file contents into string arrays, list of rows, dictionary objects
-* Working with Keys in dictionary structures 
-* Function which takes a Username and returns the relevant full dictionary for that user
-* Function which takes a product ID and returns the full dictionary for the associated product 
-* Displaying images 
+* Working with keys in dictionary structures 
+* Includes a function which takes a Username and returns the relevant full dictionary for that user
+* Includes a function which takes a product ID and returns the full dictionary for the associated product 
 * Reading CSV files into data frames and working with data fields
