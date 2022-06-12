@@ -12,3 +12,9 @@
 * Includes a function which takes a Username and returns the relevant full dictionary for that user
 * Includes a function which takes a product ID and returns the full dictionary for the associated product 
 * Reading CSV files into data frames and working with data fields
+
+# [Project 3: Statistical Analysis for an Ice Cream Company](https://github.com/chris-rainford/Statistical-Analysis-for-an-Ice-Cream-Company/blob/main/Exploratory%20Data%20Analysis%2C%20Hypothesis%20Testing%2C%20Modelling%20and%20Prediction%20in%20R.R) 
+* Exploratory Data Analysis
+* Hypothesis Testing
+* Modelling (mulitple linear regression)
+* Predictions
